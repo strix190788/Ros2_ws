@@ -1,0 +1,2 @@
+chmod: changing permissions of 'robot_news_station.py': Operation not permitte
+
