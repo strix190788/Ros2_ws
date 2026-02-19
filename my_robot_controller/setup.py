@@ -27,6 +27,9 @@ setup(
 		'my_first_node = my_robot_controller.my_first_node:main',
         'robot_news_station = my_robot_controller.robot_news_station:main',
         'smartphone = my_robot_controller.smartphone:main',
+        'battery_node = my_robot_controller.battery_node:main',
+        'motor_simulator = my_robot_controller.motor_simulator:main',
+        'system_monitor = my_robot_controller.system_monitor:main',
         ],
     },
 )
