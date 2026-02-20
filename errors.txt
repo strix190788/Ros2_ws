@@ -1,2 +1,3 @@
-chmod: changing permissions of 'robot_news_station.py': Operation not permitte
 
+
+ros2 topic pub /cmd_vel geometry_msgs/msg/Twist "{linear: {x: 1.0}, angular: {z: 0.0}}"
